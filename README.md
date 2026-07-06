@@ -5,7 +5,18 @@ A Streamlit-based data analytics dashboard for analyzing Seoul 250m grid-level p
 This project analyzes native population, foreign population, hourly population trends, spatial concentration, foreign nationality distribution, clustering patterns, and machine learning-based population prediction.
 
 ---
+## Dashboard Preview
 
+### Main Dashboard
+![Main Dashboard](./main_dashboard.png)
+
+### Foreign Nationality Analysis
+![Foreign Nationality Analysis](./nationality_analysis.png)
+
+### Prediction Result
+![Prediction Result](./prediction_result.png)
+
+---
 ## Project Overview
 
 This project was built as a personal data analytics portfolio project.
